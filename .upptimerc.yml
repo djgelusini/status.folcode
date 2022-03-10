@@ -7,6 +7,8 @@ sites:
     url: https://folcademy.com
   - name: FolcademyMal
     url: https://folcademysl.com
+  - name: FolcademyMalMal
+    url: https://folcademyswel.com
 status-website:
   theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
