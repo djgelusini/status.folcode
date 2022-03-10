@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /status.folcode
-  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAkFBMVEVqSJz///////1pSKFrSZXb0+ddOZb/+/9iQ5L9//thQJP/+P9qSJ5sR5tgPZPNwuJlQZlpS56gjsDbz+vVyuSXgblnTJjNwd359vdrRKBrSJn///dhRo1aP4fe0ehdQJZdOJexoc3by+3a1eNrQ6heM5ze1N1nTo9iTpbNv+WTg7KZf72hkbacgrOOdbOHbK34zR01AAACE0lEQVR4nO3c0W7aMBSAYTvOAkkPAVoKrdOttOvGtrbb+7/dYFe7icPkSee4/T+JCxQJ5ZfN1XHiHAAAAAAAAAAAAAAAAABkijG6ICKnz1/+5WtY1FG0O8ZFJ7LIFI6/YleU9d08010Qy4ny8ZOfZfHL+2C4MNT7Dz7Tsl8Y/h+GuqGQQgqVUUghhfoopJBCfRRSSKE+CimkUB+FFFKoj0IKKdRHoffV4IeqTag2e8OBZxQO7WbCQ2N4fHjOLr24b5L6TmrDi3jGGt5sJ+b4t4UXVjdr7ZvMQiGF9lFIoX0UUmgfhRTaRyGF9lFIoX0UUmgfhRTaRyGF9lF4Kuz6tE5c0bOnwV89XiU9rCw/Bzxd2LbDUCXturILTxs1fXnXlL1L28onDyq01bIp+yzGtNJPm1BIoTYKKaRQH4UUUqiPQgop1EchhRTqo5BCCvW9ifcmijgZ9WcN02OJKeqFUUKsR0XXfM5dw91eVAsl3CbI05ev6bHEJPXZ03p7OGxHfTvMH2cXWWbfe9XC1eXUJvvRd1nmW90Z8OryuAnH8wbvr1eKt/cfUEihfRRSaB+FFNpHIYX2UUihfRRSaB+FFNpHIYX2UUihfe+h0FeJJ7OO155LL3zxbWKM7Sv/Wnih/NwlLTe/Ci90T33Tj79Attt3hk+KnCckTmKcjmm4sh9kBgAAAAAAAAAAAAAAAAAAwFv1GydfbjJxHEeeAAAAAElFTkSuQmCC
   name: FOLCODE
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
