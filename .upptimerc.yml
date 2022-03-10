@@ -5,7 +5,8 @@ repo: status.folcode # The name of this repository
 sites:
   - name: Folcademy
     url: https://folcademy.com
-
+  - name: FolcademyMal
+    url: https://folcademysl.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
